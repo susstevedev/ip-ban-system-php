@@ -1,5 +1,5 @@
 # ip-ban-system-php
-Simple IP ban system in PHP.
+Simple IP ban system in PHP. Uses [GeoJS](https://www.geojs.io).
 # Set up
 Create a database with the following structure:
 
